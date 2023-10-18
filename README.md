@@ -62,31 +62,38 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 Initial data set:
 
-![](./01.png)
+<img width="507" alt="01" src="https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118682484/1ad2ea4a-d33a-4f60-95f4-058149182594">
+
 
 Data info:
 
-![](./02.png)
+<img width="157" alt="02" src="https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118682484/e50451d4-086c-4f24-ba34-174277a22a85">
+
 
 Optimization of null values:
 
-![](./03.png)
+<img width="143" alt="03" src="https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118682484/9695b483-0e2a-41b7-9f4c-475e9e2dc303">
+
 
 Assignment of x and y values:
 
-![](./04.png)
+<img width="677" alt="04" src="https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118682484/187c49f7-9890-4951-96a8-bac464e5fcab">
+
 
 Converting string literals to numerical values using label encoder:
 
-![](./05.png)
+<img width="594" alt="05" src="https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118682484/71510749-6be3-4067-889f-786c3de3569e">
+
 
 Accuracy:
 
-![](./06.png)
+<img width="124" alt="06" src="https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118682484/6ac36645-e346-4272-b2a3-92af31620cd2">
+
 
 Prediction:
 
-![](./07.png)
+<img width="673" alt="07" src="https://github.com/arshatha-palanivel/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118682484/e61727b3-3ebb-47de-9931-00a426c16c82">
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
